@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">切换数据卡</string>
+    <string name="choose_data_card">选择数据卡</string>
+    <string name="get_root_first">请先获取root权限</string>
+    <string name="wait">请耐心等待……</string>
+    <string name="card_1">卡1</string>
+    <string name="card_2">卡2</string>
+</resources>
